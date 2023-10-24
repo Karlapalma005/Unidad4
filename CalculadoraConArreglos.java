@@ -41,7 +41,7 @@ public class CalculadoraConArreglos {
                 default -> System.out.println("Opcion no valida. Por favor, elija una opcion valida.");
             }
         } while (opcion != 3);
-        System.out.println("Recomendacion de películas romanticas: 'Titanic', 'La La Land', 'Notting Hill', 'Before Sunrise', 'The Notebook', 'A dos metros de ti'");
+        System.out.println("Recomendacion de peliculas romanticas: 'Titanic', 'La La Land', 'Notting Hill', 'Before Sunrise', 'The Notebook', 'A dos metros de ti'");
     
 }
   
