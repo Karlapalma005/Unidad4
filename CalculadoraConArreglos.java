@@ -3,15 +3,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package calculadoraconarreglos;
-import java.util.Scanner;
+import java.util.Scanner
 /**
  *
  * @author labcca
  */
 public class CalculadoraConArreglos {
-
-    private static String producto;
-
     /**
      * @param args the command line arguments
      */
